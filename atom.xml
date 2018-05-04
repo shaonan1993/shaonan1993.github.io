@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.shaonan.site/"/>
-  <updated>2018-05-03T10:26:25.917Z</updated>
+  <updated>2018-05-04T09:36:51.012Z</updated>
   <id>http://www.shaonan.site/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://www.shaonan.site/2018/05/03/%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B8%83%E6%96%87%E7%AB%A0/"/>
     <id>http://www.shaonan.site/2018/05/03/测试发布文章/</id>
     <published>2018-05-03T07:15:14.000Z</published>
-    <updated>2018-05-03T10:26:25.917Z</updated>
+    <updated>2018-05-04T09:36:51.012Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="一个一级标题"><a href="#一个一级标题" class="headerlink" title="一个一级标题"></a>一个一级标题</h1><h2 id="一个二级标题"><a href="#一个二级标题" class="headerlink" title="一个二级标题"></a>一个二级标题</h2><p>一些文字</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> numpy</span><br><span class="line"></span><br><span class="line">a = <span class="number">1</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h1 id="一个一级标题"><a href="#一个一级标题" class="headerlink" title="一个一级标题"></a>一个一级标题</h1><h2 id="一个二级标题"><a href="#一个二级标题" class="headerlink" title="一个二级标题"></a>一个二级标题</h2><p>还没开始写文章不要看啦！<br>试试看“关于我”页面</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> numpy</span><br><span class="line"></span><br><span class="line">a = <span class="number">1</span></span><br><span class="line">print(a)</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
