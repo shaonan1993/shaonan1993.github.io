@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+  <url>
+    <loc>http://www.shaonan.site/2018/05/03/%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B8%83%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2018-05-04T09:36:51.012Z</lastmod>
+    <data>
+        <display>
+        <title>测试发布文章</title>
+        <pubTime>2018-05-03T07:15:14.000Z</pubTime>
+        
+        <tag>tag1</tag>
+         
+        <tag>tag2</tag>
+         
+        <tag>tag3</tag>
+         
+         
+           
+             
+              <breadCrumb title="cat1" url="http://www.shaonan.site/categories/cat1/"/>
+          
+             
+              <breadCrumb title="cat2" url="http://www.shaonan.site/categories/cat1/cat2/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+</urlset>
