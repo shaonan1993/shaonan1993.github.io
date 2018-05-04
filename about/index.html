@@ -28,7 +28,7 @@
 <meta property="og:site_name" content="shaonan的小站">
 <meta property="og:description" content="一个关于我的页面">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2018-05-03T13:20:15.687Z">
+<meta property="og:updated_time" content="2018-05-04T07:01:42.777Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="关于我">
 <meta name="twitter:description" content="一个关于我的页面">
@@ -47,7 +47,7 @@
 <body>
     <div id="loading" class="active"></div>
 
-    <aside id="menu" class="hide" >
+    <aside id="menu"  >
   <div class="inner flex-row-vertical">
     <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="menu-off">
         <i class="icon icon-lg icon-close"></i>
@@ -165,7 +165,13 @@
 <div class="container body-wrap">
     <article class="page-article fade" itemprop="blogPage">
         <div class="post-content page-content" id="page-content" itemprop="pageContent">
-            
+            <h2 id="Column"><a href="#Column" class="headerlink" title="Column"></a>Column</h2><div class="column-2">
+<div class="card">
+<h2 id="左边放照片"><a href="#左边放照片" class="headerlink" title="左边放照片"></a>左边放照片</h2></div>
+<div class="card">
+<h2 id="右边是一些个人信息"><a href="#右边是一些个人信息" class="headerlink" title="右边是一些个人信息"></a>右边是一些个人信息</h2></div>
+</div>
+
         </div>
 
         
@@ -174,7 +180,7 @@
             <div class="content flex-col">
                 <p><strong>Shao Nan</strong></p>
                 <p><em>Life is strange.</em></p>
-                <p>用户页面中作者相关的描述性文字，如不需要设为 false</p>
+                <p>没想好写什么嘻嘻</p>
             </div>
 
             
@@ -349,6 +355,27 @@ var BLOG = { ROOT: '/', SHARE: true, REWARD: false };
 <script src="//unpkg.com/hexo-theme-material-indigo@latest/js/search.min.js" async></script>
 
 
+
+<!-- mathjax config similar to math.stackexchange -->
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"]  ],
+        processEscapes: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+    }
+});
+
+MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i=0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+
+<script async src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" async></script>
 
 
 
