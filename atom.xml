@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.shaonan.site/"/>
-  <updated>2018-05-04T09:36:51.012Z</updated>
+  <updated>2019-02-02T07:29:39.878Z</updated>
   <id>http://www.shaonan.site/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>myNewTestBlog</title>
+    <link href="http://www.shaonan.site/2019/02/02/myNewTestBlog/"/>
+    <id>http://www.shaonan.site/2019/02/02/myNewTestBlog/</id>
+    <published>2019-02-02T07:29:39.000Z</published>
+    <updated>2019-02-02T07:29:39.878Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>测试发布文章</title>
